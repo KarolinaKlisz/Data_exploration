@@ -8,5 +8,4 @@ I used libraries for data analysid such us:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
-and others. 
+- others
