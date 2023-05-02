@@ -2,6 +2,7 @@ This repository is used for data exploration. It contains algorithms used in dat
 - decision tree
 - kNN
 - PCA
+
 I used libraries for data analysid such us:
 - Pandas
 - Matplotlib
